@@ -1,0 +1,137 @@
+/*  */
+*{
+    margin: 0%;
+    padding: 0%;
+}
+/*  */
+/* header css strat */
+.header_text_left{
+    background-color: white;
+}
+.header_text_right{
+    background-color: rgba(255, 249, 241, 0.753);
+}
+/* header css end */
+/* center css start */
+.center_top_left{
+    background-color: rgba(45, 125, 179, 0.863);
+    padding: 5%;
+}
+.bg-white{
+    width: 200px;
+    height: 10px;
+    color: white;
+}   
+span{
+    color: rgb(221, 0, 147);
+    font-size: 60%;
+}
+.center_top_right{
+    background-color: rgba(255, 0, 255, 0.582);
+}
+h1{
+    text-transform: uppercase;
+    color: rgba(240, 248, 255, 0.733);
+    font-size: 700%;
+    font-weight: bolder;
+}
+h3{
+    color: white;
+    font-size: 300%;
+    text-transform: capitalize;
+}
+h2{
+    color: white;
+    font-size: 400%;
+}
+.its{
+    color: white;
+    font-size: 400%;
+    font-weight: bolder;
+}
+.middal_content{
+    background-color: rgba(128, 128, 128, 0.205);
+}
+.middal_text_left{
+    color: rgb(32, 30, 30);
+}
+.middal_text{
+
+}
+.about{
+    font-size: 300%;
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+.our{   
+    font-size: 200%;
+}
+.company{
+    font-size: 200%;
+}
+.middal_text_right{
+    padding: 5%;
+    padding-right: 15%;
+    color: rgb(32, 30, 30);
+}
+
+.chat_icon img{
+ width: 25%;
+ height: 25%;
+ padding-left: 10%;
+}
+.folder_icon img{
+    width: 25%;
+    height: 25%;
+    padding-left: 10%;
+}
+.doc_icon img{
+    width: 25%;
+    height: 25%;
+    padding-left: 10%;
+}
+.text1{
+    margin-left: 10%;
+    font-size: 200%;
+    font-weight: bolder;
+}
+.text2{
+    margin-left: 10%;
+    font-size: 200%;
+    color: rgb(255, 53, 130);
+}
+.text3{
+    margin-left: 10%;
+}
+
+.bottom_content{
+    margin-top: 2%;
+}
+/* center css end */
+/* footer css strat */
+.footer_main{
+    background-color: rgb(32, 30, 30);
+}
+.footer_text1{
+    color: white;
+    font-size: 150%;
+    font-weight: bolder;
+}
+.footer_text2{
+    color: white;
+    font-size: 150%;
+    font-weight: bolder;
+}
+.footer_text3{
+    color: white;
+    font-size: 150%;
+    font-weight: bolder;
+    padding-bottom: 5%;
+}
+.footer_text4{
+    color: white;
+    font-size: 150%;
+    font-weight: bolder;
+    padding-bottom: 5%;
+}
+/* footer css end */
